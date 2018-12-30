@@ -1,4 +1,4 @@
-//====================================================== file = weblite.c =====
+//====================================================== file = knockserver.c =====
 //=  A super light-weight secure HTTP server                                  =
 //=   - Uses threads to allow for parallel connections                        =
 //=============================================================================
